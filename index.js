@@ -205,3 +205,12 @@ function login(username, password){
 
 login("admin", "1234");  //Test login function
 login("user", "abcd");    //Test login function with invalid credentials
+
+
+
+
+
+
+
+
+
